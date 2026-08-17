@@ -1,6 +1,6 @@
 <div align="center">
 
-# NewmountainsIT ⛰️
+# Newmountains.IT ⛰️
 
 **Ihr Remote-IT-Dienstleister für kleine und mittelständische Unternehmen in Deutschland.**
 KI-First · Cloud-First · 100 % Remote
