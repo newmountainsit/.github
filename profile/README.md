@@ -7,8 +7,13 @@ KI-First · Cloud-First · 100 % Remote
 
 [![Website](https://img.shields.io/badge/newmountains.it-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://newmountains.it)
 [![E-Mail](https://img.shields.io/badge/info@newmountains.it-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@newmountains.it)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/newmountainsit)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@newmountains-it)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/newmountainsit)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/newmountainsit)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/newmountainsit)
+[![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@newmountainsit)
 
 </div>
 
